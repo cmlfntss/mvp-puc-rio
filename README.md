@@ -1,6 +1,6 @@
+# Pós-Graduação em Engenharia de Software - PUC Rio
 # MVP Sprint de Gestão Ágil de Projetos e Produtos
 
-# Pós-Graduação em Engenharia de Software - PUC Rio
 Este projeto foi desenvolvido como parte das disciplinas de Engenharia de Requisitos e Gestão Ágil de Produtos, Gestão Ágil de Projetos, e Design e Prototipação da Interface do Usuário na PUC Rio. Através deste MVP, aplicamos práticas ágeis e técnicas de prototipação para criar uma solução digital que ajuda usuários a gerenciar e organizar sua coleção pessoal de livros.
 
 # Visão Geral do Projeto
