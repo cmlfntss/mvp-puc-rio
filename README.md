@@ -1,11 +1,21 @@
-# MVP Sprint de Gestão Ágil de Projetos e Produtos -  Pós graduação em Engenharia de Software da PUC Rio
+# MVP Sprint de Gestão Ágil de Projetos e Produtos
 
-Utilizei os conhecimentos adquiridos nas disciplinas Engenharia de Requisitos e Gestão Ágil de Produtos, Gestão Ágil de Projetos e Design e Prototipação da Interface do Usuário
+# Pós-Graduação em Engenharia de Software - PUC Rio
+Este projeto foi desenvolvido como parte das disciplinas de Engenharia de Requisitos e Gestão Ágil de Produtos, Gestão Ágil de Projetos, e Design e Prototipação da Interface do Usuário na PUC Rio. Através deste MVP, aplicamos práticas ágeis e técnicas de prototipação para criar uma solução digital que ajuda usuários a gerenciar e organizar sua coleção pessoal de livros.
 
-## Apresentação do projeto:
+# Visão Geral do Projeto
 
-Mostrar diferentes opções de restaurantes, pratos e eventos gastronômicos na cidade a partir do que o usuário procura comer e sua localização na cidade.
+O objetivo deste MVP é fornecer uma plataforma que permite aos usuários catalogar os livros que possuem, desejam comprar ou emprestar, com funcionalidades para marcar o status da leitura (lido, lendo, quer ler).
 
- - MVP Canvas - criado na ferramenta Miro
- - Backlog do produto e backlog da Sprint - criado na ferramenta Jira
- - Protótipos de interface do App mobile - criado na ferramenta Figma
+## Funcionalidades Principais
+
+**Catalogação de Livros:**  Adicionar e remover livros da lista pessoal com opções para inserir detalhes como autor, título e edição.<br>
+**Marcação de Status:** Atualizar o status de leitura para "Lido", "Lendo" ou "Quer Ler".<br>
+**Pesquisa e Filtragem:** Pesquisar livros por título, autor ou categoria, e filtrar a lista com base no status de leitura.<br>
+**Recomendações Personalizadas:** Sugerir livros baseados nas preferências e histórico de leitura do usuário.
+
+## Ferramentas Utilizadas
+
+**Miro:** Utilizado para a criação do MVP Canvas, facilitando a visualização do modelo de negócio e a estratégia do produto.<br>
+**Jira:** Empregado para gerenciar o Backlog do Produto e da Sprint, permitindo uma gestão eficiente e ágil das tarefas.<br>
+**Figma:** Utilizado para o design e prototipação da interface do aplicativo, proporcionando um protótipo interativo que simula a experiência do usuário.
