@@ -22,3 +22,5 @@ O objetivo deste MVP é fornecer uma plataforma que permite aos usuários catalo
 (https://camiladejesusfontes.atlassian.net/jira/software/projects/BC01/boards/1?atlOrigin=eyJpIjoiOTU1NDYyMmFkNjFiNDNjODhiZDE5OTNiOWU5NTkwYjIiLCJwIjoiaiJ9)<br>
 **Figma:** Utilizado para o design e prototipação da interface do aplicativo, proporcionando um protótipo interativo que simula a experiência do usuário.<br>
 (url inserida dentro da pasta wireframe)
+**Vídeo no YT:** Apresentação mostrando o que foi visto dentro das disciplinas apresentadas<br>
+(https://www.youtube.com/watch?v=l20MIvxfbwU)
